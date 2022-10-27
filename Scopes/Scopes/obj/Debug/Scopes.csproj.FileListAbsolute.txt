@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\Scopes\Scopes\bin\Debug\Scopes.exe.config
+C:\Users\hmzaont\source\repos\Scopes\Scopes\bin\Debug\Scopes.exe
+C:\Users\hmzaont\source\repos\Scopes\Scopes\bin\Debug\Scopes.pdb
+C:\Users\hmzaont\source\repos\Scopes\Scopes\obj\Debug\Scopes.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\Scopes\Scopes\obj\Debug\Scopes.exe
+C:\Users\hmzaont\source\repos\Scopes\Scopes\obj\Debug\Scopes.pdb

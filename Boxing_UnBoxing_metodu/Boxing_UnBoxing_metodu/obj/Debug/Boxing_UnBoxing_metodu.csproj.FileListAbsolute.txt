@@ -1,0 +1,7 @@
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\bin\Debug\Boxing_UnBoxing_metodu.exe.config
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\bin\Debug\Boxing_UnBoxing_metodu.exe
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\bin\Debug\Boxing_UnBoxing_metodu.pdb
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\obj\Debug\Boxing_UnBoxing_metodu.csprojAssemblyReference.cache
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\obj\Debug\Boxing_UnBoxing_metodu.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\obj\Debug\Boxing_UnBoxing_metodu.exe
+C:\Users\hmzaont\source\repos\Boxing_UnBoxing_metodu\Boxing_UnBoxing_metodu\obj\Debug\Boxing_UnBoxing_metodu.pdb

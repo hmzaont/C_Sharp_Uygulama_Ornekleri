@@ -1,0 +1,7 @@
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\bin\Debug\Uygulama4.exe.config
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\bin\Debug\Uygulama4.exe
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\bin\Debug\Uygulama4.pdb
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\obj\Debug\Uygulama4.csprojAssemblyReference.cache
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\obj\Debug\Uygulama4.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\obj\Debug\Uygulama4.exe
+C:\Users\hmzaont\source\repos\Uygulama4\Uygulama4\obj\Debug\Uygulama4.pdb

@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\bin\Debug\otomatik_tip.exe.config
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\bin\Debug\otomatik_tip.exe
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\bin\Debug\otomatik_tip.pdb
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\obj\Debug\otomatik_tip.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\obj\Debug\otomatik_tip.exe
+C:\Users\hmzaont\source\repos\otomatik_tip\otomatik_tip\obj\Debug\otomatik_tip.pdb

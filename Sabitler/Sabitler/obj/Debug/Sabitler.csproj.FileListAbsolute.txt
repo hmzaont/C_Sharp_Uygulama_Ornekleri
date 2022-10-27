@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\obj\Debug\Sabitler.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\bin\Debug\Sabitler.exe.config
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\bin\Debug\Sabitler.exe
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\bin\Debug\Sabitler.pdb
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\obj\Debug\Sabitler.exe
+C:\Users\hmzaont\source\repos\Sabitler\Sabitler\obj\Debug\Sabitler.pdb

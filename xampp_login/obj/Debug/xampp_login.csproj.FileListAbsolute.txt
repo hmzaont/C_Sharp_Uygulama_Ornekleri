@@ -1,0 +1,54 @@
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\xampp_login.exe.config
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\xampp_login.exe
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\xampp_login.pdb
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.csprojAssemblyReference.cache
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.Properties.Resources.resources
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.csproj.GenerateResource.cache
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.exe
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.pdb
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\MySql.Data.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\Google.Protobuf.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\Zstandard.Net.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\BouncyCastle.Crypto.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\Ubiety.Dns.Core.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\Renci.SshNet.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\System.Buffers.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\K4os.Compression.LZ4.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\K4os.Hash.xxHash.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\System.Memory.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\System.Numerics.Vectors.dll
+D:\Youtube Studio\xampp_login\xampp_login\bin\Debug\MySql.Data.xml
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.exe.config
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.Form1.resources
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.Form2.resources
+D:\Youtube Studio\xampp_login\xampp_login\obj\Debug\xampp_login.csproj.CopyComplete
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\xampp_login.exe.config
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\xampp_login.exe
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\xampp_login.pdb
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\Google.Protobuf.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\Zstandard.Net.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\Renci.SshNet.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\System.Buffers.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\System.Memory.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hmzaont\Downloads\xampp_login\bin\Debug\MySql.Data.xml
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.csprojAssemblyReference.cache
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.exe.config
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.Form1.resources
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.Form2.resources
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.Properties.Resources.resources
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.csproj.GenerateResource.cache
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.csproj.CopyComplete
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.exe
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.pdb
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.Form3.resources
+C:\Users\hmzaont\Downloads\xampp_login\obj\Debug\xampp_login.Form4.resources

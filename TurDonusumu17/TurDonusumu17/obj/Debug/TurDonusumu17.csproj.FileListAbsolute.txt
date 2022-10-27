@@ -1,0 +1,2 @@
+C:\Users\hmzaont\source\repos\TurDonusumu17\TurDonusumu17\obj\Debug\TurDonusumu17.csprojAssemblyReference.cache
+C:\Users\hmzaont\source\repos\TurDonusumu17\TurDonusumu17\obj\Debug\TurDonusumu17.csproj.CoreCompileInputs.cache

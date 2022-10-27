@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\bin\Debug\VarsayilanDegerlerGetType.exe.config
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\bin\Debug\VarsayilanDegerlerGetType.exe
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\bin\Debug\VarsayilanDegerlerGetType.pdb
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\obj\Debug\VarsayilanDegerlerGetType.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\obj\Debug\VarsayilanDegerlerGetType.exe
+C:\Users\hmzaont\source\repos\VarsayilanDegerlerGetType\VarsayilanDegerlerGetType\obj\Debug\VarsayilanDegerlerGetType.pdb

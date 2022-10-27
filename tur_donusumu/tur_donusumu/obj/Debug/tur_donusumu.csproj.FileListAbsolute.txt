@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\bin\Debug\tur_donusumu.exe.config
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\bin\Debug\tur_donusumu.exe
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\bin\Debug\tur_donusumu.pdb
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\obj\Debug\tur_donusumu.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\obj\Debug\tur_donusumu.exe
+C:\Users\hmzaont\source\repos\tur_donusumu\tur_donusumu\obj\Debug\tur_donusumu.pdb

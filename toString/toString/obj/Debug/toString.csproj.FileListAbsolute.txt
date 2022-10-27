@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\toString\toString\bin\Debug\toString.exe.config
+C:\Users\hmzaont\source\repos\toString\toString\bin\Debug\toString.exe
+C:\Users\hmzaont\source\repos\toString\toString\bin\Debug\toString.pdb
+C:\Users\hmzaont\source\repos\toString\toString\obj\Debug\toString.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\toString\toString\obj\Debug\toString.exe
+C:\Users\hmzaont\source\repos\toString\toString\obj\Debug\toString.pdb

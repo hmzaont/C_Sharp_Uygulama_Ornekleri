@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\bin\Debug\VarsayilanDegerler.exe.config
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\bin\Debug\VarsayilanDegerler.exe
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\bin\Debug\VarsayilanDegerler.pdb
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\obj\Debug\VarsayilanDegerler.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\obj\Debug\VarsayilanDegerler.exe
+C:\Users\hmzaont\source\repos\VarsayilanDegerler\VarsayilanDegerler\obj\Debug\VarsayilanDegerler.pdb

@@ -1,0 +1,7 @@
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\bin\Debug\bilincli_tip.exe.config
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\bin\Debug\bilincli_tip.exe
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\bin\Debug\bilincli_tip.pdb
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\obj\Debug\bilincli_tip.csprojAssemblyReference.cache
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\obj\Debug\bilincli_tip.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\obj\Debug\bilincli_tip.exe
+C:\Users\hmzaont\source\repos\bilincli_tip\bilincli_tip\obj\Debug\bilincli_tip.pdb

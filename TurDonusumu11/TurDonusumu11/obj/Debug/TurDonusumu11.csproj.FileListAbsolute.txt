@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\bin\Debug\TurDonusumu11.exe.config
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\bin\Debug\TurDonusumu11.exe
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\bin\Debug\TurDonusumu11.pdb
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\obj\Debug\TurDonusumu11.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\obj\Debug\TurDonusumu11.exe
+C:\Users\hmzaont\source\repos\TurDonusumu11\TurDonusumu11\obj\Debug\TurDonusumu11.pdb

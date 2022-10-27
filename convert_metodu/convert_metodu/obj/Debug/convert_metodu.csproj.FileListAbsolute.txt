@@ -1,0 +1,6 @@
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\bin\Debug\convert_metodu.exe.config
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\bin\Debug\convert_metodu.exe
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\bin\Debug\convert_metodu.pdb
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\obj\Debug\convert_metodu.csproj.CoreCompileInputs.cache
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\obj\Debug\convert_metodu.exe
+C:\Users\hmzaont\source\repos\convert_metodu\convert_metodu\obj\Debug\convert_metodu.pdb
